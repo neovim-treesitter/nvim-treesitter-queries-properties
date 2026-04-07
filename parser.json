@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-properties",
-  "semver": false,
   "parser_version": "6310671b24d4e04b803577b1c675d765cbd5773b",
   "location": null,
-  "lang": "properties"
+  "lang": "properties",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-properties",
+  "semver": false
 }
